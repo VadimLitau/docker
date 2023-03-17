@@ -1,1 +1,1 @@
-node_modules
+FROM node:16-alpine
